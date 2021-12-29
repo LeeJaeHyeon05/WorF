@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/WVF/app/src/main/res/layout/activity_introduction_page.xml" value="0.18" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/WVF/app/src/main/res/layout/activity_main.xml" value="0.2427536231884058" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/WVF/app/src/main/res/layout/activity_splash_screen.xml" value="0.18" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/WVF/app/src/main/res/layout/view_pager_item_list.xml" value="0.11666666666666667" />
       </map>
     </option>
   </component>
